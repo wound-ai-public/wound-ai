@@ -4,6 +4,8 @@
 
 ## 📄 公開資料
 
-📎 **カスタムプロンプト＆ナレッジ（PDF）**
+📎 [カスタムプロンプト＆ナレッジ](./prompt-knowledge.pdf)
 
-[prompt-knowledge.pdf を開く](./prompt-knowledge.pdf)
+📎 [オプトアウト](./opt-out.pdf)
+
+📎 [個人情報保護・研究利用](./privacy-research.pdf)
