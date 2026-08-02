@@ -6,4 +6,4 @@
 
 📎 **カスタムプロンプト＆ナレッジ（PDF）**
 
-[prompt&knowledge.pdf を開く](./prompt&knowledge.pdf)
+[prompt-knowledge.pdf を開く](./prompt-knowledge.pdf)
